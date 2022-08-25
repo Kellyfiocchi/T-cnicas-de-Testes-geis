@@ -10,11 +10,11 @@ Contexto:
     Dado que o usuario esta autenticado no site 
 
 Esquema do Cenario: Configuracao valida
+
 Quando o ususario selecciona um produto
-E o usuario escolhe a <cor>
-E o usuario escolhe o <tamanho>
-E  o usuario escolhe a <quantidade>
+E o usuario escolhe a cor, tamanho e quantidade
 Entao o produto deve ser inserido no carrinho
+
 
 
 Exemplos:
@@ -26,8 +26,7 @@ Exemplos:
 
 Esquema do Cenario: Configuracao invalida
 Quando o ususario selecciona um produto
-E o usuario seleciona o <tamanho>
-E  o usuario seleciona a <quantidade>
+E o usuario seleciona o <tamanho> e <quantidade>
 Entao deve exibir uma <mensagem> de alerta 
 
 Exemplos:
