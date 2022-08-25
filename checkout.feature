@@ -26,6 +26,7 @@
 
             Cenário: Campos Vazios
             Quando tentar cadastrar com campos Vazios
+            E não inserir as informações obrigatórias
             Então deve me retornar uma mensagem de alerta.
 
             Esquema do Cenário: validar cadastro com campos Obrigatórios preenchidos.
