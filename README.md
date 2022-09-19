@@ -8,6 +8,7 @@ Projeto construído no Curso Qualidade de Software da EBAC (Escola Britânica de
 
 
 ## Tecnlogias
+- Vs Code
 
 - Gherkin
 
