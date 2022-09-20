@@ -1,6 +1,6 @@
 # Curso Qualidade de Software 
 
-## Técnica de Teste Ágil
+## Técnicas de Testes Ágeis.
 
 ![preview](https://user-images.githubusercontent.com/107550887/191135129-02755480-d6cc-4a44-b192-4fda951c5e5b.png)
 
